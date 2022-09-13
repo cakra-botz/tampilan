@@ -1,3 +1,5 @@
+
+
 # tampilan
 
 Ini adalah script perubah tampilan termux
@@ -11,7 +13,8 @@ pkg install lolcat
 pkg install bash     
 pkg install git
 git clone https://github.com/cakra-botz/tampilan      
-cd tampilan
-nano.bashrc
-sh tampilan.sh
+
+cd tampilan     
+nano.bashrc     
+sh tampilan.sh     
 
