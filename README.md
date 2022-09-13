@@ -12,6 +12,7 @@ pkg install ruby
 pkg install lolcat     
 pkg install bash     
 pkg install git
+
 git clone https://github.com/cakra-botz/tampilan      
 
 cd tampilan     
